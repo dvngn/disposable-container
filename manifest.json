@@ -11,17 +11,17 @@
   ],
   "browser_action": {
     "default_icon": {
-      "16": "fingerprint.svg",
-      "32": "fingerprint.svg"
+      "16": "fingerprint-dark.svg",
+      "32": "fingerprint-dark.svg"
     },
     "theme_icons": [
       {
-        "light": "fingerprint.svg",
+        "light": "fingerprint-light.svg",
         "dark": "fingerprint-dark.svg",
         "size": 16
       },
       {
-        "light": "fingerprint.svg",
+        "light": "fingerprint-light.svg",
         "dark": "fingerprint-dark.svg",
         "size": 32
       }
